@@ -12,4 +12,5 @@
 
 const countOccurrences = (str, char) => str.split(char).length - 1;
 
+countOccurrences("localization", l);
 module.exports = countOccurrences;

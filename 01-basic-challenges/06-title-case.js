@@ -8,4 +8,6 @@ function titleCase(str) {
     return words.join(' ');
 }
 
+titleCase("stock beacon beldon")
+
 module.exports = titleCase;

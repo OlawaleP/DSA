@@ -33,4 +33,6 @@ function calculator(num1, num2, operator) {
     return result;
 }
 
+calculator(3, 4, "+");
+
 module.exports = calculator;

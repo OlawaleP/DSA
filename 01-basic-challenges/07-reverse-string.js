@@ -14,4 +14,6 @@ function reverseString(str) {
     return reversed;
 }
 
+reverseString("bahrain");
+
 module.exports = reverseString;

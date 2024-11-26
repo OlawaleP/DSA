@@ -13,4 +13,6 @@ function findMaxNumber(arr) {
     return max;
 }
 
+findMaxNumber([10, 20, 30, 15, 62]);
+
 module.exports = findMaxNumber;
